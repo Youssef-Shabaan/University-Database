@@ -200,3 +200,4 @@ D:\ITI C#\MVC\Learn\Learn.PL\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
 D:\ITI C#\MVC\Learn\Learn.PL\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
 D:\ITI C#\MVC\Learn\Learn.PL\bin\Debug\net8.0\Castle.Core.dll
 D:\ITI C#\MVC\Learn\Learn.PL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITI C#\MVC\Learn\Learn.PL\obj\Debug\net8.0\Learn.PL.sourcelink.json

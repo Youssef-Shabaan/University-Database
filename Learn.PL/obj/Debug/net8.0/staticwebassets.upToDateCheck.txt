@@ -6,6 +6,7 @@ wwwroot\Files\1f85af7a-09a4-47be-83e5-3545d9ad65d1WhatsApp Image 2025-09-10 at 2
 wwwroot\Files\6d0c9574-e1c8-4a89-ac40-2ae29f25a3bfWhatsApp Image 2025-09-10 at 22.00.07_5b7ac184.jpg
 wwwroot\Files\8de89a1c-406a-48ff-8341-c5ef61b06b83WhatsApp Image 2025-09-10 at 22.00.07_5b7ac184.jpg
 wwwroot\Files\b59cc50b-a5e7-4e5d-9772-a564477859a6html.png
+wwwroot\Files\dffc78ce-fb9d-44ad-9956-b77322df9952WhatsApp Image 2025-09-10 at 22.00.07_5b7ac184.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
