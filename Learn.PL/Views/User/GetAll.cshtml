@@ -1,0 +1,32 @@
+﻿@using Learn.BLL.ModelVM.User
+@model List<GetAllUserVM>
+
+@if(ViewBag.ErrorMessage != null)
+{
+    <p>@ViewBag.ErrorMessage</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Image</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td><img src="~/Files/@item.ImagePath" width="150" height="200" /></td>
+                    <td>@item.DeptName</td> 
+                </tr>
+            }
+        </tbody>
+    </table>
+    
+}

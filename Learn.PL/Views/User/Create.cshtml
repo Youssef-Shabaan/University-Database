@@ -1,0 +1,50 @@
+﻿@using Learn.BLL.ModelVM.User
+
+@model CreateUserVM
+
+@if(ViewBag.ErrorMessage != null)
+{
+    <p>@ViewBag.ErrorMessage</p>
+}
+
+<div class="card">
+    <div class="card-header" style="background-color:#000000; color:white ">
+        @SharedLocalizer["CreateUser"]
+    </div>
+    <div class="card-body" style="background-color:#c2c4c6">
+        <form asp-action="Create" asp-asp-controller="User" enctype="multipart/form-data">
+            <!--Name-->
+            <div class="mb-3">
+                <label for="name" class="form-label">@SharedLocalizer["Name"]</label>
+                <input type="text" asp-for="Name" class="form-control" id="name" aria-describedby="emailHelp">
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+            <!--Age-->
+            <div class="mb-3">
+                <label for="age" class="form-label">@SharedLocalizer["Age"]</label>
+                <input type="number" asp-for="Age" class="form-control" id="age" aria-describedby="emailHelp">
+                <span class="text-danger" asp-validation-for="Age"></span>
+            </div>
+            <!--Image-->
+            <div class="mb-3">
+                <label for="image" class="form-label">@SharedLocalizer["Image"]</label>
+                <input type="file" asp-for="image" class="form-control" id="image" aria-describedby="emailHelp">
+                <span class="text-danger" asp-validation-for="image"></span>
+            </div>
+            <!--Department-->
+            <div class="mb-3">
+                <label for="dept" class="form-label">@SharedLocalizer["Dept"]</label>
+                <select asp-for="DeptId" class="form-select" aria-label="Default select example">
+                    @foreach (var item in ViewBag.Department)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="DeptId"></span>
+            </div>
+
+            <button type="submit" class="btn btn-dark">Submit</button>
+        </form>
+    </div>
+</div>
+

@@ -1,0 +1,15 @@
+D:\ITI C#\MVC\Learn\Learn.BLL\bin\Debug\net8.0\Learn.BLL.deps.json
+D:\ITI C#\MVC\Learn\Learn.BLL\bin\Debug\net8.0\Learn.BLL.dll
+D:\ITI C#\MVC\Learn\Learn.BLL\bin\Debug\net8.0\Learn.BLL.pdb
+D:\ITI C#\MVC\Learn\Learn.BLL\bin\Debug\net8.0\Learn.DAL.dll
+D:\ITI C#\MVC\Learn\Learn.BLL\bin\Debug\net8.0\Learn.DAL.pdb
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.csproj.AssemblyReference.cache
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.AssemblyInfoInputs.cache
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.AssemblyInfo.cs
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.csproj.CoreCompileInputs.cache
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.csproj.Up2Date
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.dll
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\refint\Learn.BLL.dll
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\Learn.BLL.pdb
+D:\ITI C#\MVC\Learn\Learn.BLL\obj\Debug\net8.0\ref\Learn.BLL.dll
